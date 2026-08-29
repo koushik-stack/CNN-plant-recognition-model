@@ -201,3 +201,5 @@ for i in range(9):
     plt.axis("off")
 plt.tight_layout()
 plt.show()
+
+#further standard model requires to train on more dataset to be accurate
