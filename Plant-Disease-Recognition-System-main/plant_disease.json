@@ -194,5 +194,13 @@
         "name": "Tomato___healthy",
         "cause": "No disease present.",
         "cure": "Maintain good cultural practices for optimal health."
+    },
+    
+    
+    {
+        "name": "Blueberry___healthy",
+        "cause": "No disease present.",
+        "cure": "Maintain good cultural practices for optimal health."
+
     }
-]
+] 
